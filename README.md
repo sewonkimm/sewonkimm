@@ -1,5 +1,65 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsewonkimm%2Fsewonkimm.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30452963/120012298-4983f700-c01a-11eb-8415-25f7b83ae52a.png" width="100%">
+</p>
+<p align="center">🇰🇷</p>
+<p align="center">
+  <samp>
+    Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> 회사원보다 프로그래머가 되고싶은 Frontend Developer 김세원입니다.<br>
+    2019년 3월, 웹 개발을 시작했습니다🐥 새로운 것을 배우고, 기록하는 것을 좋아합니다🧡
+  </samp>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewonkimm&layout=compact&hide=java,c,C%2B%2B&langs_count=8,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+  <br><br>
+  <p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsewonkimm%2Fsewonkimm.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" href="https://hits.seeyoufarm.com">
+  </p>
+  <br><br>
+  
+  <h2 align="center">Tech stack</h2>
+  <h4>Frontend</h4>
+  <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+  </p>
+  
+  <h4>Backend</h4>
+  <p>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+  
+  <h4>Design</h4>
+  <p>
+  <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
+  
+  <h4>Tools</h4>
+  <p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  </p>
+  
+  <br><br>
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sewonkimm&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewonkimm&layout=compact&hide=java,c,C%2B%2B&langs_count=8,c%2B%2B"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sewonkimm&count_private=true&show_icons=true&theme=vue"/>
+</p>
+
+<br><br>
+
+<h3 align="center">⬇️Check Out My Repos ⬇️</h3>
