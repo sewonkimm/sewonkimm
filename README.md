@@ -4,8 +4,9 @@
 <p align="center">🇰🇷</p>
 <p align="center">
   <samp>
-    Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> 회사원보다 프로그래머가 되고싶은 Frontend Developer 김세원입니다.<br>
-    2019년 3월, 웹 개발을 시작했습니다🐥 새로운 것을 배우고, 기록하는 것을 좋아합니다🧡
+    Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> <br>
+    회사원보다 프로그래머가 되자는 마음을 일하는 Frontend Developer 김세원입니다.<br>
+    새로운 것을 배우는 것을 좋아하고, 현재 열심히 배우고 있는 주니어 개발자 김세원입니다🐥
   </samp>
 
   <br><br>
@@ -22,7 +23,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   </p>
