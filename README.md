@@ -5,8 +5,8 @@
 <p align="center">
   <samp>
     Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> <br>
-    회사원보다 프로그래머가 되자는 마음을 일하는 Frontend Developer 김세원입니다.<br>
-    새로운 것을 배우는 것을 좋아하고, 현재 열심히 배우고 있는 주니어 개발자 김세원입니다🐥
+    회사원보다 프로그래머가 되자는 마음으로 일하는 Frontend Developer 김세원입니다.<br>
+    새로운 것을 배우는 것을 좋아하고, 현재 열심히 배우고 있는 주니어 개발자입니다🐥
   </samp>
 
   <br><br>
