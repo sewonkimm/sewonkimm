@@ -5,11 +5,15 @@
 <p align="center">
   <samp>
     Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> <br>
-    회사원보다 프로그래머가 되자는 마음으로 일하는 Frontend Developer 김세원입니다.<br>
-    새로운 것을 배우는 것을 좋아하고, 현재 열심히 배우고 있는 주니어 개발자입니다🐥
+    기록과 공유를 좋아하고, 좋은 코드를 작성하기 위해 노력하는 주니어Frontend Developer 김세원입니다🐥<br>
+    회사원보다 프로그래머가 되고 싶습니다.
   </samp>
 
-  <br><br>
+   <br>
+  <p align="center">
+    <a href="https://sewonkimm.notion.site/sewonkimm-5bbec56484054d23be7bc55900fb2b1f" >👉Notion Profile👈</a><br>
+  </p>
+  <br>
   <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsewonkimm%2Fsewonkimm.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" href="https://hits.seeyoufarm.com">
   </p>
