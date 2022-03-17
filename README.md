@@ -56,7 +56,6 @@
 </p>
 
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewonkimm&layout=compact&hide=java,c,ruby,css,C%2B%2B&langs_count=10,c%2B%2B"/>
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sewonkimm&count_private=true&show_icons=true&theme=vue"/>
 </p>
 
