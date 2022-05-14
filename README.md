@@ -1,59 +1,35 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30452963/120012298-4983f700-c01a-11eb-8415-25f7b83ae52a.png" width="100%">
 </p>
-<p align="center">🇰🇷</p>
-<p align="center">
-  <samp>
-    Hello world! <img src="https://user-images.githubusercontent.com/30452963/120007589-070beb80-c015-11eb-9293-a3d7acc20e33.gif" width="20px"> <br>
-    기록과 공유를 좋아하고, 좋은 코드를 작성하기 위해 노력하는 주니어Frontend Developer 김세원입니다🐥<br>
-    회사원보다 프로그래머가 되고 싶습니다.
-  </samp>
 
-   <br>
-  <p align="center">
-    <a href="https://sewonkimm.notion.site/sewonkimm-5bbec56484054d23be7bc55900fb2b1f" >👉Notion Profile👈</a><br>
-  </p>
-  <br>
+```js
+const sewonkimm = {
+    display: "She",
+    position: "South Korea",
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "front-end development", "running", "hiking", "books"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Typescript", "Vue"],
+        },
+        databases: ["MySql"],
+        misc: ["git", "figma"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "TDD in frontend",
+    attitude: "I am not an office worker but a programmer",
+    funFact: "My dream is to put all my belongings in one suitcase."
+};
+```
+
+<p align="center">
+  <a href="https://sewonkimm.notion.site/sewonkimm-5bbec56484054d23be7bc55900fb2b1f" >👉Detail about me(Notion)👈</a>
+</p>
+<br>
   <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsewonkimm%2Fsewonkimm.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" href="https://hits.seeyoufarm.com">
   </p>
-  <br><br>
-  
-  <h2 align="center">Tech stack</h2>
-  <h4>Frontend</h4>
-  <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-  </p>
-  
-  <h4>Backend</h4>
-  <p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </p>
-  
-  <h4>Design</h4>
-  <p>
-  <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
-  
-  <h4>Tools</h4>
-  <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  </p>
-  
-  <br><br>
-</p>
+  <br>
 
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=sewonkimm&count_private=true&show_icons=true&theme=vue"/>
