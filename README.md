@@ -28,9 +28,5 @@ const sewonkimm = {
 
 <br><br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sewonkimm&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sewonkimm&theme=gruvbox)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sewonkimm&theme=gruvbox)
-
-<br><br>
 
 <h3 align="center">⬇️Check Out My Repos ⬇️</h3>
