@@ -24,7 +24,6 @@ const sewonkimm = {
 };
 ```
 
-<a href="https://sewonkimm.notion.site/sewonkimm-5bbec56484054d23be7bc55900fb2b1f" >👉Detail about me(Notion)👈</a>
 
 <br><br>
 
