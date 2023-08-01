@@ -9,7 +9,7 @@ const sewonkimm = {
     display: "She",
     position: "South Korea",
     code: ["Javascript"],
-    askMeAbout: ["web dev", "front-end development", "running", "hiking", "books"],
+    askMeAbout: ["web dev", "front-end development", "minimalist", "running", "books"],
     technologies: {
         frontEnd: {
             js: ["React", "Typescript", "Vue"],
@@ -20,7 +20,7 @@ const sewonkimm = {
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "TDD in frontend",
     attitude: "I am not an office worker but a programmer",
-    funFact: "My dream is to put all my belongings in one suitcase."
+    funFact: "I work in a office. but I am not an office worker but..."
 };
 ```
 
