@@ -9,18 +9,19 @@ const sewonkimm = {
     display: "She",
     position: "South Korea",
     code: ["Javascript"],
-    askMeAbout: ["web dev", "front-end development", "minimalist", "running", "books"],
+    askMeAbout: ["web dev", "front-end development", "minimalLife", "running", "books"],
     technologies: {
         frontEnd: {
-            js: ["React", "Typescript", "Vue"],
+            js: ["React", "Typescript"],
         },
-        databases: ["MySql"],
+        backEnd: {},
+        databases: [],
         misc: ["git", "figma"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "TDD in frontend",
-    attitude: "I am not an office worker but a programmer",
-    funFact: "I work in a office. but I am not an office worker but..."
+    locale: ["ko", "en", "cn"],
+    currentFocus: ["TDD in frontend", "agile software development"],
+    attitude: "Be a programmer, not an office worker",
+    funFact: "I work in an office..."
 };
 ```
 
